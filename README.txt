@@ -1,3 +1,10 @@
+Celia Kelly's Portfolio
+Celia is a full stack software engineer. This portfolio displays her recent work and describes the services she offers to freelance clients. 
+
+
+
+
+This site is built on a template by HTML5UP. 
 Stellar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
