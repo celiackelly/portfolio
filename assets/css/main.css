@@ -2415,6 +2415,26 @@ input, select, textarea {
 				width: 100%;
 			}
 
+/* Cards */
+
+.cards li {
+	border-radius: 8px;
+	padding: .5rem .5rem 0 .5rem;
+	border: 4px solid #5c35d3;
+	box-shadow: 10px 10px 5px #b7bee9;
+}
+
+.cards li:hover {
+	/* border: 4px solid white; */
+	transform: translate(5px, 5px);
+	filter: contrast(75%)
+
+}
+
+img.card {
+	border-radius: 4px 4px 0 0;
+}
+
 /* List */
 
 	ol {
