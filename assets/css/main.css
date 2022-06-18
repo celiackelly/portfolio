@@ -2419,6 +2419,9 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+	#bloved-img {
+		padding-bottom: 6px;
+	}
 
 /* Cards */
 
@@ -2433,12 +2436,15 @@ input, select, textarea {
 .cards li:hover {
 	/* border: 4px solid white; */
 	transform: translateY(-10px);
-	filter: contrast(75%)
-
+	/* filter: contrast(75%) */
 }
 
 img.card {
 	border-radius: 4px 4px 0 0;
+}
+
+.card-content {
+	padding: 10px;
 }
 
 /* List */
