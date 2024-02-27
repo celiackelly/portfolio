@@ -9,10 +9,6 @@
 
 /*Utility Class*/
 
-.flex-end-child {
-  align-self: flex-end;
-}
-
 /*Main CSS*/
 
 html,
@@ -2545,6 +2541,7 @@ input[type="radio"]:focus + label:before {
   transition: all 0.25s linear;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .cards li:hover {
